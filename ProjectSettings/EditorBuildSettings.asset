@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 6ee76dde8f2b6d745923dd9a19df8cb1
+  - enabled: 1
+    path: Assets/Scenes/VR_Chess_v.0.03A.unity
+    guid: 6d8d17b446566724aa85b050c4fe8f43
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b1c6b0a1999160148ab25dc5c0321a06,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4ba0010616f59514a8086f7022b021c5,
+      type: 2}
