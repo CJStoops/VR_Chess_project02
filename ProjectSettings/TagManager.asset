@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - ChessPiece
+  - Knight
+  - Rook
+  - Queen
+  - King
+  - Bishop
+  - Pawn
   layers:
   - Default
   - TransparentFX

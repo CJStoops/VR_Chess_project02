@@ -134,8 +134,8 @@ GameObject:
   - component: {fileID: 5601901}
   - component: {fileID: 5601900}
   - component: {fileID: 5601899}
-  - component: {fileID: 5601898}
   - component: {fileID: 5601897}
+  - component: {fileID: 5601898}
   m_Layer: 0
   m_Name: ChessBoardSquare (6)
   m_TagString: Untagged
@@ -262,7 +262,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 5601895}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 5601900}
@@ -446,7 +446,7 @@ GameObject:
   - component: {fileID: 8728756}
   m_Layer: 0
   m_Name: PrimaryBlackBishop
-  m_TagString: ChessPiece
+  m_TagString: Bishop
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -764,7 +764,7 @@ GameObject:
   - component: {fileID: 34114912}
   m_Layer: 0
   m_Name: PrimaryBlackPawn_005
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1658,7 +1658,7 @@ GameObject:
   - component: {fileID: 77861425}
   m_Layer: 0
   m_Name: PrimaryBlackPawn_006
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1796,8 +1796,8 @@ GameObject:
   - component: {fileID: 93549273}
   - component: {fileID: 93549272}
   - component: {fileID: 93549271}
-  - component: {fileID: 93549270}
   - component: {fileID: 93549269}
+  - component: {fileID: 93549270}
   m_Layer: 0
   m_Name: ChessBoardSquare (55)
   m_TagString: Untagged
@@ -1924,7 +1924,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 93549267}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 93549272}
@@ -2194,8 +2194,8 @@ GameObject:
   - component: {fileID: 112407375}
   - component: {fileID: 112407374}
   - component: {fileID: 112407373}
-  - component: {fileID: 112407372}
   - component: {fileID: 112407371}
+  - component: {fileID: 112407372}
   m_Layer: 0
   m_Name: ChessBoardSquare (58)
   m_TagString: Untagged
@@ -2322,7 +2322,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 112407369}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 112407374}
@@ -2406,7 +2406,7 @@ GameObject:
   - component: {fileID: 114619569}
   m_Layer: 0
   m_Name: PrimaryWhitePawn_007 (2)
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2845,8 +2845,8 @@ GameObject:
   - component: {fileID: 167991673}
   - component: {fileID: 167991672}
   - component: {fileID: 167991671}
-  - component: {fileID: 167991670}
   - component: {fileID: 167991669}
+  - component: {fileID: 167991670}
   m_Layer: 0
   m_Name: ChessBoardSquare (18)
   m_TagString: Untagged
@@ -2973,7 +2973,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 167991667}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 167991672}
@@ -3057,7 +3057,7 @@ GameObject:
   - component: {fileID: 169727397}
   m_Layer: 0
   m_Name: PrimaryBlackPawn_004
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3365,8 +3365,8 @@ GameObject:
   - component: {fileID: 184079815}
   - component: {fileID: 184079814}
   - component: {fileID: 184079813}
-  - component: {fileID: 184079812}
   - component: {fileID: 184079811}
+  - component: {fileID: 184079812}
   m_Layer: 0
   m_Name: ChessBoardSquare (34)
   m_TagString: Untagged
@@ -3493,7 +3493,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 184079809}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 184079814}
@@ -3664,8 +3664,8 @@ GameObject:
   - component: {fileID: 201798255}
   - component: {fileID: 201798254}
   - component: {fileID: 201798253}
-  - component: {fileID: 201798252}
   - component: {fileID: 201798251}
+  - component: {fileID: 201798252}
   m_Layer: 0
   m_Name: ChessBoardSquare (3)
   m_TagString: Untagged
@@ -3792,7 +3792,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 201798249}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 201798254}
@@ -4058,8 +4058,8 @@ GameObject:
   - component: {fileID: 230134597}
   - component: {fileID: 230134596}
   - component: {fileID: 230134595}
-  - component: {fileID: 230134594}
   - component: {fileID: 230134593}
+  - component: {fileID: 230134594}
   m_Layer: 0
   m_Name: ChessBoardSquare (29)
   m_TagString: Untagged
@@ -4186,7 +4186,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 230134591}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 230134596}
@@ -4322,7 +4322,7 @@ GameObject:
   - component: {fileID: 244541238}
   m_Layer: 0
   m_Name: PrimaryWhitePawn_007 (7)
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4552,8 +4552,8 @@ GameObject:
   - component: {fileID: 258147727}
   - component: {fileID: 258147726}
   - component: {fileID: 258147725}
-  - component: {fileID: 258147724}
   - component: {fileID: 258147723}
+  - component: {fileID: 258147724}
   m_Layer: 0
   m_Name: ChessBoardSquare (8)
   m_TagString: Untagged
@@ -4680,7 +4680,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 258147721}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 258147726}
@@ -4933,8 +4933,8 @@ GameObject:
   - component: {fileID: 294480744}
   - component: {fileID: 294480743}
   - component: {fileID: 294480742}
-  - component: {fileID: 294480741}
   - component: {fileID: 294480740}
+  - component: {fileID: 294480741}
   m_Layer: 0
   m_Name: ChessBoardSquare (32)
   m_TagString: Untagged
@@ -5061,7 +5061,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 294480738}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 294480743}
@@ -5175,7 +5175,7 @@ GameObject:
   - component: {fileID: 309841010}
   m_Layer: 0
   m_Name: Rook_001 (1)
-  m_TagString: ChessPiece
+  m_TagString: Rook
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5987,8 +5987,8 @@ GameObject:
   - component: {fileID: 370976350}
   - component: {fileID: 370976349}
   - component: {fileID: 370976348}
-  - component: {fileID: 370976347}
   - component: {fileID: 370976346}
+  - component: {fileID: 370976347}
   m_Layer: 0
   m_Name: ChessBoardSquare (41)
   m_TagString: Untagged
@@ -6115,7 +6115,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 370976344}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 370976349}
@@ -8400,8 +8400,8 @@ GameObject:
   - component: {fileID: 400892842}
   - component: {fileID: 400892841}
   - component: {fileID: 400892840}
-  - component: {fileID: 400892839}
   - component: {fileID: 400892838}
+  - component: {fileID: 400892839}
   m_Layer: 0
   m_Name: ChessBoardSquare (27)
   m_TagString: Untagged
@@ -8528,7 +8528,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 400892836}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 400892841}
@@ -8791,8 +8791,8 @@ GameObject:
   - component: {fileID: 412565073}
   - component: {fileID: 412565072}
   - component: {fileID: 412565071}
-  - component: {fileID: 412565070}
   - component: {fileID: 412565069}
+  - component: {fileID: 412565070}
   m_Layer: 0
   m_Name: ChessBoardSquare (39)
   m_TagString: Untagged
@@ -8919,7 +8919,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 412565067}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 412565072}
@@ -9138,7 +9138,7 @@ GameObject:
   - component: {fileID: 437053514}
   m_Layer: 0
   m_Name: WhiteKnight_001 (1)
-  m_TagString: ChessPiece
+  m_TagString: Knight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9269,7 +9269,7 @@ GameObject:
   - component: {fileID: 444700347}
   m_Layer: 0
   m_Name: PrimaryBlackPawn_002
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10076,7 +10076,7 @@ GameObject:
   - component: {fileID: 464067012}
   m_Layer: 0
   m_Name: BlackKnight_001 (1)
-  m_TagString: ChessPiece
+  m_TagString: Knight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10347,7 +10347,7 @@ GameObject:
   - component: {fileID: 484981483}
   m_Layer: 0
   m_Name: PrimaryWhitePawn_007 (1)
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10982,8 +10982,8 @@ GameObject:
   - component: {fileID: 523882650}
   - component: {fileID: 523882649}
   - component: {fileID: 523882648}
-  - component: {fileID: 523882647}
   - component: {fileID: 523882646}
+  - component: {fileID: 523882647}
   m_Layer: 0
   m_Name: ChessBoardSquare (22)
   m_TagString: Untagged
@@ -11110,7 +11110,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 523882644}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 523882649}
@@ -13303,8 +13303,8 @@ GameObject:
   - component: {fileID: 539413476}
   - component: {fileID: 539413475}
   - component: {fileID: 539413474}
-  - component: {fileID: 539413473}
   - component: {fileID: 539413472}
+  - component: {fileID: 539413473}
   m_Layer: 0
   m_Name: ChessBoardSquare (9)
   m_TagString: Untagged
@@ -13431,7 +13431,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 539413470}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 539413475}
@@ -13510,8 +13510,8 @@ GameObject:
   - component: {fileID: 542144776}
   - component: {fileID: 542144775}
   - component: {fileID: 542144774}
-  - component: {fileID: 542144773}
   - component: {fileID: 542144772}
+  - component: {fileID: 542144773}
   m_Layer: 0
   m_Name: ChessBoardSquare (10)
   m_TagString: Untagged
@@ -13638,7 +13638,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 542144770}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 542144775}
@@ -13721,7 +13721,7 @@ GameObject:
   - component: {fileID: 545763790}
   m_Layer: 0
   m_Name: PrimaryWhiteBishop_001 (1)
-  m_TagString: ChessPiece
+  m_TagString: Bishop
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13835,169 +13835,6 @@ MonoBehaviour:
   m_snapOffset: {fileID: 0}
   m_grabPoints:
   - {fileID: 545763791}
---- !u!43 &550311812
-Mesh:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: Cube(Clone)
-  serializedVersion: 10
-  m_SubMeshes:
-  - serializedVersion: 2
-    firstByte: 0
-    indexCount: 36
-    topology: 0
-    baseVertex: 0
-    firstVertex: 0
-    vertexCount: 24
-    localAABB:
-      m_Center: {x: -2.061, y: 0, z: -1.01}
-      m_Extent: {x: 0.5, y: 0.5, z: 0.5}
-  m_Shapes:
-    vertices: []
-    shapes: []
-    channels: []
-    fullWeights: []
-  m_BindPose: []
-  m_BoneNameHashes: 
-  m_RootBoneNameHash: 0
-  m_BonesAABB: []
-  m_VariableBoneCountWeights:
-    m_Data: 
-  m_MeshCompression: 0
-  m_IsReadable: 1
-  m_KeepVertices: 1
-  m_KeepIndices: 1
-  m_IndexFormat: 0
-  m_IndexBuffer: 0000020003000000030001000800040005000800050009000a00060007000a0007000b000c000d000e000c000e000f00100011001200100012001300140015001600140016001700
-  m_VertexData:
-    serializedVersion: 3
-    m_VertexCount: 24
-    m_Channels:
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 12
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 24
-      format: 0
-      dimension: 4
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 40
-      format: 0
-      dimension: 2
-    - stream: 0
-      offset: 48
-      format: 0
-      dimension: 2
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    m_DataSize: 1344
-    _typelessdata: dacec7bf000000bf5c8f02bf00000000000000000000803f000080bf0000000000000000000080bf00000000000000007ee4303f88bfb13e6de723c0000000bf5c8f02bf00000000000000000000803f000080bf0000000000000000000080bf0000803f00000000fc247f3f88bfb13edacec7bf0000003f5c8f02bf00000000000000000000803f000080bf0000000000000000000080bf000000000000803f7ee4303f4020273f6de723c00000003f5c8f02bf00000000000000000000803f000080bf0000000000000000000080bf0000803f0000803ffc247f3f4020273fdacec7bf0000003fae47c1bf000000000000803f00000000000080bf0000000000000000000080bf000000000000803f94949e3e83bfb13e6de723c00000003fae47c1bf000000000000803f00000000000080bf0000000000000000000080bf0000803f0000803f3ce6843b83bfb13edacec7bf000000bfae47c1bf0000000000000000000080bf000080bf0000000000000000000080bf000000000000803f83bfb13e4020273f6de723c0000000bfae47c1bf0000000000000000000080bf000080bf0000000000000000000080bf0000803f0000803f4020273f4020273fdacec7bf0000003f5c8f02bf000000000000803f00000000000080bf0000000000000000000080bf000000000000000094949e3e4020273f6de723c00000003f5c8f02bf000000000000803f00000000000080bf0000000000000000000080bf0000803f000000003ce6843b4020273fdacec7bf0000003fae47c1bf0000000000000000000080bf000080bf0000000000000000000080bf000000000000000083bfb13e83bfb13e6de723c00000003fae47c1bf0000000000000000000080bf000080bf0000000000000000000080bf0000803f000000004020273f83bfb13edacec7bf000000bfae47c1bf00000000000080bf00000000000080bf0000000000000000000080bf000000000000000083bfb13e3ce6843bdacec7bf000000bf5c8f02bf00000000000080bf00000000000080bf0000000000000000000080bf000000000000803f83bfb13e94949e3e6de723c0000000bf5c8f02bf00000000000080bf00000000000080bf0000000000000000000080bf0000803f0000803f4020273f94949e3e6de723c0000000bfae47c1bf00000000000080bf00000000000080bf0000000000000000000080bf0000803f000000004020273f3ce6843b6de723c0000000bf5c8f02bf000080bf00000000000000000000000000000000000080bf000080bf0000000000000000b8b5303f94949e3e6de723c00000003f5c8f02bf000080bf00000000000000000000000000000000000080bf000080bf000000000000803f34f67e3f94949e3e6de723c00000003fae47c1bf000080bf00000000000000000000000000000000000080bf000080bf0000803f0000803f34f67e3f3ce6843b6de723c0000000bfae47c1bf000080bf00000000000000000000000000000000000080bf000080bf0000803f00000000b8b5303f3ce6843bdacec7bf000000bfae47c1bf0000803f000000000000000000000000000000000000803f000080bf000000000000000094949e3e3ce6843bdacec7bf0000003fae47c1bf0000803f000000000000000000000000000000000000803f000080bf000000000000803f3ce6843b3ce6843bdacec7bf0000003f5c8f02bf0000803f000000000000000000000000000000000000803f000080bf0000803f0000803f3ce6843b94949e3edacec7bf000000bf5c8f02bf0000803f000000000000000000000000000000000000803f000080bf0000803f0000000094949e3e94949e3e
-  m_CompressedMesh:
-    m_Vertices:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UV:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Normals:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Tangents:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Weights:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_NormalSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_TangentSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_FloatColors:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_BoneIndices:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Triangles:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UVInfo: 0
-  m_LocalAABB:
-    m_Center: {x: -2.061, y: 0, z: -1.01}
-    m_Extent: {x: 0.5, y: 0.5, z: 0.5}
-  m_MeshUsageFlags: 0
-  m_BakedConvexCollisionMesh: 
-  m_BakedTriangleCollisionMesh: 
-  m_MeshMetrics[0]: 1
-  m_MeshMetrics[1]: 10.70262
-  m_MeshOptimizationFlags: 1
-  m_StreamData:
-    offset: 0
-    size: 0
-    path: 
 --- !u!1 &566575242
 GameObject:
   m_ObjectHideFlags: 0
@@ -14010,8 +13847,8 @@ GameObject:
   - component: {fileID: 566575248}
   - component: {fileID: 566575247}
   - component: {fileID: 566575246}
-  - component: {fileID: 566575245}
   - component: {fileID: 566575244}
+  - component: {fileID: 566575245}
   m_Layer: 0
   m_Name: ChessBoardSquare (62)
   m_TagString: Untagged
@@ -14138,7 +13975,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 566575242}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 566575247}
@@ -14314,7 +14151,7 @@ GameObject:
   - component: {fileID: 589671842}
   m_Layer: 0
   m_Name: PrimaryWhitePawn_007 (3)
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14490,8 +14327,8 @@ GameObject:
   - component: {fileID: 590971587}
   - component: {fileID: 590971586}
   - component: {fileID: 590971585}
-  - component: {fileID: 590971584}
   - component: {fileID: 590971583}
+  - component: {fileID: 590971584}
   m_Layer: 0
   m_Name: ChessBoardSquare (53)
   m_TagString: Untagged
@@ -14618,7 +14455,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 590971581}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 590971586}
@@ -15074,8 +14911,8 @@ GameObject:
   - component: {fileID: 614012169}
   - component: {fileID: 614012168}
   - component: {fileID: 614012167}
-  - component: {fileID: 614012166}
   - component: {fileID: 614012165}
+  - component: {fileID: 614012166}
   m_Layer: 0
   m_Name: ChessBoardSquare (51)
   m_TagString: Untagged
@@ -15202,7 +15039,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 614012163}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 614012168}
@@ -15281,8 +15118,8 @@ GameObject:
   - component: {fileID: 614780805}
   - component: {fileID: 614780804}
   - component: {fileID: 614780803}
-  - component: {fileID: 614780802}
   - component: {fileID: 614780801}
+  - component: {fileID: 614780802}
   m_Layer: 0
   m_Name: ChessBoardSquare (37)
   m_TagString: Untagged
@@ -15409,7 +15246,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 614780799}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 614780804}
@@ -16278,8 +16115,8 @@ GameObject:
   - component: {fileID: 672755578}
   - component: {fileID: 672755577}
   - component: {fileID: 672755576}
-  - component: {fileID: 672755575}
   - component: {fileID: 672755574}
+  - component: {fileID: 672755575}
   m_Layer: 0
   m_Name: ChessBoardSquare (45)
   m_TagString: Untagged
@@ -16406,7 +16243,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 672755572}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 672755577}
@@ -16485,8 +16322,8 @@ GameObject:
   - component: {fileID: 684417358}
   - component: {fileID: 684417357}
   - component: {fileID: 684417356}
-  - component: {fileID: 684417355}
   - component: {fileID: 684417354}
+  - component: {fileID: 684417355}
   m_Layer: 0
   m_Name: ChessBoardSquare (54)
   m_TagString: Untagged
@@ -16519,7 +16356,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 5979e95ee6b4be1409b0225141bd30f5, type: 3}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -16613,7 +16450,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 684417352}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 684417357}
@@ -16692,8 +16529,8 @@ GameObject:
   - component: {fileID: 719300225}
   - component: {fileID: 719300224}
   - component: {fileID: 719300223}
-  - component: {fileID: 719300222}
   - component: {fileID: 719300221}
+  - component: {fileID: 719300222}
   m_Layer: 0
   m_Name: ChessBoardSquare (57)
   m_TagString: Untagged
@@ -16820,7 +16657,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 719300219}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 719300224}
@@ -16899,8 +16736,8 @@ GameObject:
   - component: {fileID: 727106858}
   - component: {fileID: 727106857}
   - component: {fileID: 727106856}
-  - component: {fileID: 727106855}
   - component: {fileID: 727106854}
+  - component: {fileID: 727106855}
   m_Layer: 0
   m_Name: ChessBoardSquare (16)
   m_TagString: Untagged
@@ -17027,7 +16864,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 727106852}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 727106857}
@@ -17412,7 +17249,7 @@ GameObject:
   - component: {fileID: 776343436}
   m_Layer: 0
   m_Name: PrimaryBlackPawn_008
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18571,8 +18408,8 @@ GameObject:
   - component: {fileID: 804319391}
   - component: {fileID: 804319390}
   - component: {fileID: 804319389}
-  - component: {fileID: 804319388}
   - component: {fileID: 804319387}
+  - component: {fileID: 804319388}
   m_Layer: 0
   m_Name: ChessBoardSquare (25)
   m_TagString: Untagged
@@ -18699,7 +18536,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 804319385}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 804319390}
@@ -18870,8 +18707,8 @@ GameObject:
   - component: {fileID: 833825149}
   - component: {fileID: 833825148}
   - component: {fileID: 833825147}
-  - component: {fileID: 833825146}
   - component: {fileID: 833825145}
+  - component: {fileID: 833825146}
   m_Layer: 0
   m_Name: ChessBoardSquare (63)
   m_TagString: Untagged
@@ -18998,7 +18835,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 833825143}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 833825148}
@@ -19077,8 +18914,8 @@ GameObject:
   - component: {fileID: 858011624}
   - component: {fileID: 858011623}
   - component: {fileID: 858011622}
-  - component: {fileID: 858011621}
   - component: {fileID: 858011620}
+  - component: {fileID: 858011621}
   m_Layer: 0
   m_Name: ChessBoardSquare (4)
   m_TagString: Untagged
@@ -19205,7 +19042,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 858011618}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 858011623}
@@ -19739,8 +19576,8 @@ GameObject:
   - component: {fileID: 898711041}
   - component: {fileID: 898711040}
   - component: {fileID: 898711039}
-  - component: {fileID: 898711038}
   - component: {fileID: 898711037}
+  - component: {fileID: 898711038}
   m_Layer: 0
   m_Name: ChessBoardSquare (49)
   m_TagString: Untagged
@@ -19867,7 +19704,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 898711035}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 898711040}
@@ -20531,8 +20368,8 @@ GameObject:
   - component: {fileID: 963947172}
   - component: {fileID: 963947171}
   - component: {fileID: 963947170}
-  - component: {fileID: 963947169}
   - component: {fileID: 963947168}
+  - component: {fileID: 963947169}
   m_Layer: 0
   m_Name: ChessBoardSquare (43)
   m_TagString: Untagged
@@ -20659,7 +20496,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 963947166}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 963947171}
@@ -20738,8 +20575,8 @@ GameObject:
   - component: {fileID: 977611192}
   - component: {fileID: 977611191}
   - component: {fileID: 977611190}
-  - component: {fileID: 977611189}
   - component: {fileID: 977611188}
+  - component: {fileID: 977611189}
   m_Layer: 0
   m_Name: ChessBoardSquare (17)
   m_TagString: Untagged
@@ -20866,7 +20703,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 977611186}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 977611191}
@@ -21024,8 +20861,8 @@ GameObject:
   - component: {fileID: 999239914}
   - component: {fileID: 999239913}
   - component: {fileID: 999239912}
-  - component: {fileID: 999239911}
   - component: {fileID: 999239910}
+  - component: {fileID: 999239911}
   m_Layer: 0
   m_Name: ChessBoardSquare (15)
   m_TagString: Untagged
@@ -21152,7 +20989,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 999239908}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 999239913}
@@ -21699,8 +21536,8 @@ GameObject:
   - component: {fileID: 1023919510}
   - component: {fileID: 1023919509}
   - component: {fileID: 1023919508}
-  - component: {fileID: 1023919507}
   - component: {fileID: 1023919506}
+  - component: {fileID: 1023919507}
   m_Layer: 0
   m_Name: ChessBoardSquare (19)
   m_TagString: Untagged
@@ -21827,7 +21664,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1023919504}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1023919509}
@@ -21906,8 +21743,8 @@ GameObject:
   - component: {fileID: 1028309574}
   - component: {fileID: 1028309573}
   - component: {fileID: 1028309572}
-  - component: {fileID: 1028309571}
   - component: {fileID: 1028309570}
+  - component: {fileID: 1028309571}
   m_Layer: 0
   m_Name: ChessBoardSquare (38)
   m_TagString: Untagged
@@ -22034,7 +21871,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1028309568}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1028309573}
@@ -22149,7 +21986,7 @@ GameObject:
   - component: {fileID: 1045080706}
   m_Layer: 0
   m_Name: PrimaryBlackBishop
-  m_TagString: ChessPiece
+  m_TagString: Bishop
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22275,8 +22112,8 @@ GameObject:
   - component: {fileID: 1049431526}
   - component: {fileID: 1049431525}
   - component: {fileID: 1049431524}
-  - component: {fileID: 1049431523}
   - component: {fileID: 1049431522}
+  - component: {fileID: 1049431523}
   m_Layer: 0
   m_Name: ChessBoardSquare (44)
   m_TagString: Untagged
@@ -22403,7 +22240,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1049431520}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1049431525}
@@ -22487,7 +22324,7 @@ GameObject:
   - component: {fileID: 1076413366}
   m_Layer: 0
   m_Name: PrimaryWhitePawn_007 (5)
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22625,8 +22462,8 @@ GameObject:
   - component: {fileID: 1079689056}
   - component: {fileID: 1079689055}
   - component: {fileID: 1079689054}
-  - component: {fileID: 1079689053}
   - component: {fileID: 1079689052}
+  - component: {fileID: 1079689053}
   m_Layer: 0
   m_Name: ChessBoardSquare (50)
   m_TagString: Untagged
@@ -22753,7 +22590,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1079689050}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1079689055}
@@ -22924,8 +22761,8 @@ GameObject:
   - component: {fileID: 1086927102}
   - component: {fileID: 1086927101}
   - component: {fileID: 1086927100}
-  - component: {fileID: 1086927099}
   - component: {fileID: 1086927098}
+  - component: {fileID: 1086927099}
   m_Layer: 0
   m_Name: ChessBoardSquare (24)
   m_TagString: Untagged
@@ -23052,7 +22889,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1086927096}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1086927101}
@@ -23805,8 +23642,8 @@ GameObject:
   - component: {fileID: 1144078628}
   - component: {fileID: 1144078627}
   - component: {fileID: 1144078626}
-  - component: {fileID: 1144078625}
   - component: {fileID: 1144078624}
+  - component: {fileID: 1144078625}
   m_Layer: 0
   m_Name: ChessBoardSquare (1)
   m_TagString: Untagged
@@ -23933,7 +23770,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1144078622}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1144078627}
@@ -24599,8 +24436,8 @@ GameObject:
   - component: {fileID: 1213017536}
   - component: {fileID: 1213017535}
   - component: {fileID: 1213017534}
-  - component: {fileID: 1213017533}
   - component: {fileID: 1213017532}
+  - component: {fileID: 1213017533}
   m_Layer: 0
   m_Name: ChessBoardSquare (12)
   m_TagString: Untagged
@@ -24727,7 +24564,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1213017530}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1213017535}
@@ -24806,8 +24643,8 @@ GameObject:
   - component: {fileID: 1218062103}
   - component: {fileID: 1218062102}
   - component: {fileID: 1218062101}
-  - component: {fileID: 1218062100}
   - component: {fileID: 1218062099}
+  - component: {fileID: 1218062100}
   m_Layer: 0
   m_Name: ChessBoardSquare (46)
   m_TagString: Untagged
@@ -24934,7 +24771,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1218062097}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1218062102}
@@ -25155,8 +24992,8 @@ GameObject:
   - component: {fileID: 1238032313}
   - component: {fileID: 1238032312}
   - component: {fileID: 1238032311}
-  - component: {fileID: 1238032310}
   - component: {fileID: 1238032309}
+  - component: {fileID: 1238032310}
   m_Layer: 0
   m_Name: ChessBoardSquare (23)
   m_TagString: Untagged
@@ -25283,7 +25120,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1238032307}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1238032312}
@@ -25362,8 +25199,8 @@ GameObject:
   - component: {fileID: 1238813527}
   - component: {fileID: 1238813526}
   - component: {fileID: 1238813525}
-  - component: {fileID: 1238813524}
   - component: {fileID: 1238813523}
+  - component: {fileID: 1238813524}
   m_Layer: 0
   m_Name: ChessBoardSquare (2)
   m_TagString: Untagged
@@ -25490,7 +25327,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1238813521}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1238813526}
@@ -25669,7 +25506,7 @@ GameObject:
   - component: {fileID: 1267620972}
   m_Layer: 0
   m_Name: PrimaryWhitePawn_007 (4)
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26381,8 +26218,8 @@ GameObject:
   - component: {fileID: 1292015390}
   - component: {fileID: 1292015389}
   - component: {fileID: 1292015388}
-  - component: {fileID: 1292015387}
   - component: {fileID: 1292015386}
+  - component: {fileID: 1292015387}
   m_Layer: 0
   m_Name: ChessBoardSquare (56)
   m_TagString: Untagged
@@ -26509,7 +26346,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1292015384}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1292015389}
@@ -51616,8 +51453,8 @@ GameObject:
   - component: {fileID: 1418271345}
   - component: {fileID: 1418271344}
   - component: {fileID: 1418271343}
-  - component: {fileID: 1418271342}
   - component: {fileID: 1418271341}
+  - component: {fileID: 1418271342}
   m_Layer: 0
   m_Name: ChessBoardSquare (61)
   m_TagString: Untagged
@@ -51744,7 +51581,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1418271339}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1418271344}
@@ -51823,8 +51660,8 @@ GameObject:
   - component: {fileID: 1424366626}
   - component: {fileID: 1424366625}
   - component: {fileID: 1424366624}
-  - component: {fileID: 1424366623}
   - component: {fileID: 1424366622}
+  - component: {fileID: 1424366623}
   m_Layer: 0
   m_Name: ChessBoardSquare (30)
   m_TagString: Untagged
@@ -51951,7 +51788,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1424366620}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1424366625}
@@ -52030,8 +51867,8 @@ GameObject:
   - component: {fileID: 1428933374}
   - component: {fileID: 1428933373}
   - component: {fileID: 1428933372}
-  - component: {fileID: 1428933371}
   - component: {fileID: 1428933370}
+  - component: {fileID: 1428933371}
   m_Layer: 0
   m_Name: ChessBoardSquare (21)
   m_TagString: Untagged
@@ -52158,7 +51995,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1428933368}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1428933373}
@@ -52237,8 +52074,8 @@ GameObject:
   - component: {fileID: 1439596838}
   - component: {fileID: 1439596837}
   - component: {fileID: 1439596836}
-  - component: {fileID: 1439596839}
   - component: {fileID: 1439596840}
+  - component: {fileID: 1439596839}
   m_Layer: 0
   m_Name: ChessBoardSquare
   m_TagString: Untagged
@@ -52329,7 +52166,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1439596834}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1439596837}
@@ -53131,8 +52968,8 @@ GameObject:
   - component: {fileID: 1525466437}
   - component: {fileID: 1525466436}
   - component: {fileID: 1525466435}
-  - component: {fileID: 1525466434}
   - component: {fileID: 1525466433}
+  - component: {fileID: 1525466434}
   m_Layer: 0
   m_Name: ChessBoardSquare (11)
   m_TagString: Untagged
@@ -53259,7 +53096,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1525466431}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1525466436}
@@ -53343,7 +53180,7 @@ GameObject:
   - component: {fileID: 1534665394}
   m_Layer: 0
   m_Name: PrimaryBlackPawn_003
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -53560,8 +53397,8 @@ GameObject:
   - component: {fileID: 1540607742}
   - component: {fileID: 1540607741}
   - component: {fileID: 1540607740}
-  - component: {fileID: 1540607739}
   - component: {fileID: 1540607738}
+  - component: {fileID: 1540607739}
   m_Layer: 0
   m_Name: ChessBoardSquare (59)
   m_TagString: Untagged
@@ -53688,7 +53525,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1540607736}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1540607741}
@@ -53771,7 +53608,7 @@ GameObject:
   - component: {fileID: 1542672118}
   m_Layer: 0
   m_Name: Rook_001
-  m_TagString: ChessPiece
+  m_TagString: Rook
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -53943,8 +53780,8 @@ GameObject:
   - component: {fileID: 1558548104}
   - component: {fileID: 1558548103}
   - component: {fileID: 1558548102}
-  - component: {fileID: 1558548101}
   - component: {fileID: 1558548100}
+  - component: {fileID: 1558548101}
   m_Layer: 0
   m_Name: ChessBoardSquare (31)
   m_TagString: Untagged
@@ -54071,7 +53908,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1558548098}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1558548103}
@@ -54156,8 +53993,8 @@ GameObject:
   - component: {fileID: 1578253063}
   - component: {fileID: 1578253062}
   - component: {fileID: 1578253061}
-  - component: {fileID: 1578253060}
   - component: {fileID: 1578253059}
+  - component: {fileID: 1578253060}
   m_Layer: 0
   m_Name: ChessBoardSquare (48)
   m_TagString: Untagged
@@ -54284,7 +54121,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1578253057}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1578253062}
@@ -54934,8 +54771,8 @@ GameObject:
   - component: {fileID: 1615794315}
   - component: {fileID: 1615794314}
   - component: {fileID: 1615794313}
-  - component: {fileID: 1615794312}
   - component: {fileID: 1615794311}
+  - component: {fileID: 1615794312}
   m_Layer: 0
   m_Name: ChessBoardSquare (47)
   m_TagString: Untagged
@@ -55062,7 +54899,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1615794309}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1615794314}
@@ -55389,8 +55226,8 @@ GameObject:
   - component: {fileID: 1639904010}
   - component: {fileID: 1639904009}
   - component: {fileID: 1639904008}
-  - component: {fileID: 1639904007}
   - component: {fileID: 1639904006}
+  - component: {fileID: 1639904007}
   m_Layer: 0
   m_Name: ChessBoardSquare (20)
   m_TagString: Untagged
@@ -55517,7 +55354,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1639904004}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1639904009}
@@ -55600,7 +55437,7 @@ GameObject:
   - component: {fileID: 1646220115}
   m_Layer: 0
   m_Name: BlackKnight_001
-  m_TagString: ChessPiece
+  m_TagString: Knight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -56366,8 +56203,8 @@ GameObject:
   - component: {fileID: 1688757310}
   - component: {fileID: 1688757309}
   - component: {fileID: 1688757308}
-  - component: {fileID: 1688757307}
   - component: {fileID: 1688757306}
+  - component: {fileID: 1688757307}
   m_Layer: 0
   m_Name: ChessBoardSquare (26)
   m_TagString: Untagged
@@ -56494,7 +56331,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1688757304}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1688757309}
@@ -56573,8 +56410,8 @@ GameObject:
   - component: {fileID: 1688881537}
   - component: {fileID: 1688881536}
   - component: {fileID: 1688881535}
-  - component: {fileID: 1688881534}
   - component: {fileID: 1688881533}
+  - component: {fileID: 1688881534}
   m_Layer: 0
   m_Name: ChessBoardSquare (5)
   m_TagString: Untagged
@@ -56701,7 +56538,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1688881531}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1688881536}
@@ -56780,8 +56617,8 @@ GameObject:
   - component: {fileID: 1703399243}
   - component: {fileID: 1703399242}
   - component: {fileID: 1703399241}
-  - component: {fileID: 1703399240}
   - component: {fileID: 1703399239}
+  - component: {fileID: 1703399240}
   m_Layer: 0
   m_Name: ChessBoardSquare (52)
   m_TagString: Untagged
@@ -56908,7 +56745,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1703399237}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1703399242}
@@ -57420,7 +57257,7 @@ GameObject:
   - component: {fileID: 1713287825}
   m_Layer: 0
   m_Name: PrimaryBlackPawn_007
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -57562,7 +57399,7 @@ GameObject:
   - component: {fileID: 1720878755}
   m_Layer: 0
   m_Name: BlackKing
-  m_TagString: ChessPiece
+  m_TagString: King
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -57688,8 +57525,8 @@ GameObject:
   - component: {fileID: 1735770084}
   - component: {fileID: 1735770083}
   - component: {fileID: 1735770082}
-  - component: {fileID: 1735770081}
   - component: {fileID: 1735770080}
+  - component: {fileID: 1735770081}
   m_Layer: 0
   m_Name: ChessBoardSquare (33)
   m_TagString: Untagged
@@ -57816,7 +57653,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1735770078}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1735770083}
@@ -57895,8 +57732,8 @@ GameObject:
   - component: {fileID: 1737008302}
   - component: {fileID: 1737008301}
   - component: {fileID: 1737008300}
-  - component: {fileID: 1737008299}
   - component: {fileID: 1737008298}
+  - component: {fileID: 1737008299}
   m_Layer: 0
   m_Name: ChessBoardSquare (40)
   m_TagString: Untagged
@@ -58023,7 +57860,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1737008296}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1737008301}
@@ -58326,7 +58163,7 @@ GameObject:
   - component: {fileID: 1800548790}
   m_Layer: 0
   m_Name: BlackQueen
-  m_TagString: ChessPiece
+  m_TagString: Queen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -59163,8 +59000,8 @@ GameObject:
   - component: {fileID: 1878650392}
   - component: {fileID: 1878650391}
   - component: {fileID: 1878650390}
-  - component: {fileID: 1878650389}
   - component: {fileID: 1878650388}
+  - component: {fileID: 1878650389}
   m_Layer: 0
   m_Name: ChessBoardSquare (28)
   m_TagString: Untagged
@@ -59291,7 +59128,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1878650386}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1878650391}
@@ -59370,8 +59207,8 @@ GameObject:
   - component: {fileID: 1880864240}
   - component: {fileID: 1880864239}
   - component: {fileID: 1880864238}
-  - component: {fileID: 1880864237}
   - component: {fileID: 1880864236}
+  - component: {fileID: 1880864237}
   m_Layer: 0
   m_Name: ChessBoardSquare (60)
   m_TagString: Untagged
@@ -59498,7 +59335,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1880864234}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1880864239}
@@ -59766,7 +59603,7 @@ GameObject:
   - component: {fileID: 1909724626}
   m_Layer: 0
   m_Name: PrimaryBlackPawn_001
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -84813,8 +84650,8 @@ GameObject:
   - component: {fileID: 1974096097}
   - component: {fileID: 1974096096}
   - component: {fileID: 1974096095}
-  - component: {fileID: 1974096094}
   - component: {fileID: 1974096093}
+  - component: {fileID: 1974096094}
   m_Layer: 0
   m_Name: ChessBoardSquare (14)
   m_TagString: Untagged
@@ -84941,7 +84778,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1974096091}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 1974096096}
@@ -85610,8 +85447,8 @@ GameObject:
   - component: {fileID: 2017755397}
   - component: {fileID: 2017755396}
   - component: {fileID: 2017755395}
-  - component: {fileID: 2017755394}
   - component: {fileID: 2017755393}
+  - component: {fileID: 2017755394}
   m_Layer: 0
   m_Name: ChessBoardSquare (42)
   m_TagString: Untagged
@@ -85738,7 +85575,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2017755391}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 2017755396}
@@ -86365,7 +86202,7 @@ GameObject:
   - component: {fileID: 2079195148}
   m_Layer: 0
   m_Name: PrimaryWhitePawn_007 (6)
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -86595,8 +86432,8 @@ GameObject:
   - component: {fileID: 2082928989}
   - component: {fileID: 2082928988}
   - component: {fileID: 2082928987}
-  - component: {fileID: 2082928986}
   - component: {fileID: 2082928985}
+  - component: {fileID: 2082928986}
   m_Layer: 0
   m_Name: ChessBoardSquare (36)
   m_TagString: Untagged
@@ -86723,7 +86560,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2082928983}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 2082928988}
@@ -86802,8 +86639,8 @@ GameObject:
   - component: {fileID: 2091988313}
   - component: {fileID: 2091988312}
   - component: {fileID: 2091988311}
-  - component: {fileID: 2091988310}
   - component: {fileID: 2091988309}
+  - component: {fileID: 2091988310}
   m_Layer: 0
   m_Name: ChessBoardSquare (13)
   m_TagString: Untagged
@@ -86930,7 +86767,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2091988307}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 2091988312}
@@ -87009,8 +86846,8 @@ GameObject:
   - component: {fileID: 2092240794}
   - component: {fileID: 2092240793}
   - component: {fileID: 2092240792}
-  - component: {fileID: 2092240791}
   - component: {fileID: 2092240790}
+  - component: {fileID: 2092240791}
   m_Layer: 0
   m_Name: ChessBoardSquare (7)
   m_TagString: Untagged
@@ -87137,7 +86974,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2092240788}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 2092240793}
@@ -87216,8 +87053,8 @@ GameObject:
   - component: {fileID: 2105486019}
   - component: {fileID: 2105486018}
   - component: {fileID: 2105486017}
-  - component: {fileID: 2105486016}
   - component: {fileID: 2105486015}
+  - component: {fileID: 2105486016}
   m_Layer: 0
   m_Name: ChessBoardSquare (35)
   m_TagString: Untagged
@@ -87344,7 +87181,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2105486013}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 49d047701672ad448beceb4292e11aa5, type: 3}
+  m_Script: {fileID: 11500000, guid: cc4b930fd983979429d2d1b9dbd90fa5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   rCube: {fileID: 2105486018}
@@ -87664,7 +87501,7 @@ GameObject:
   - component: {fileID: 2129074523}
   m_Layer: 0
   m_Name: Rook_002
-  m_TagString: ChessPiece
+  m_TagString: Rook
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -90022,7 +89859,7 @@ GameObject:
   - component: {fileID: 1145191224813373420}
   m_Layer: 0
   m_Name: Rook_001
-  m_TagString: ChessPiece
+  m_TagString: Rook
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -91969,7 +91806,7 @@ GameObject:
   - component: {fileID: 2580551234759431638}
   m_Layer: 0
   m_Name: King_Geoff
-  m_TagString: ChessPiece
+  m_TagString: King
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -92909,7 +92746,7 @@ GameObject:
   - component: {fileID: 3097700433156592035}
   m_Layer: 0
   m_Name: WhiteKnight_001
-  m_TagString: ChessPiece
+  m_TagString: Knight
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -93450,17 +93287,17 @@ PrefabInstance:
     - target: {fileID: 3604885024685255894, guid: 3875e59c487ebbb48a3f3b49bbcf9b51,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 23.335
+      value: 24.605
       objectReference: {fileID: 0}
     - target: {fileID: 3604885024685255894, guid: 3875e59c487ebbb48a3f3b49bbcf9b51,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -12.328
+      value: -12.304
       objectReference: {fileID: 0}
     - target: {fileID: 3604885024685255894, guid: 3875e59c487ebbb48a3f3b49bbcf9b51,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.112
+      value: -2.215
       objectReference: {fileID: 0}
     - target: {fileID: 3604885024685255894, guid: 3875e59c487ebbb48a3f3b49bbcf9b51,
         type: 3}
@@ -96887,7 +96724,7 @@ GameObject:
   - component: {fileID: 5970221274369813868}
   m_Layer: 0
   m_Name: WhiteQueen
-  m_TagString: ChessPiece
+  m_TagString: Queen
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -98308,6 +98145,119 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 495362370271177675}
   m_Mesh: {fileID: -4952901722988159819, guid: 1786922bdb9698046a069a028fdb0e06, type: 3}
+--- !u!1001 &7296113914045028562
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5488384844400955106, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 24.744263
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488384844400955106, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -12.8204
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488384844400955106, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.805
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488384844400955106, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488384844400955106, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488384844400955106, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488384844400955106, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488384844400955106, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488384844400955106, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488384844400955106, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488384844400955106, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5488384844400955110, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: m_Name
+      value: PieceLocationIndicator
+      objectReference: {fileID: 0}
+    - target: {fileID: 7997800869510395184, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: rQueen
+      value: 
+      objectReference: {fileID: 7296113914045028566}
+    - target: {fileID: 7997800869510395184, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: rRook
+      value: 
+      objectReference: {fileID: 7296113914045028565}
+    - target: {fileID: 7997800869510395184, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: rBishop
+      value: 
+      objectReference: {fileID: 7296113914045028564}
+    - target: {fileID: 7997800869510395184, guid: f4fa90f62483ad646b4fee6d9338076a,
+        type: 3}
+      propertyPath: rKnight
+      value: 
+      objectReference: {fileID: 7296113914045028563}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f4fa90f62483ad646b4fee6d9338076a, type: 3}
+--- !u!23 &7296113914045028563 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 8288464270399519741, guid: f4fa90f62483ad646b4fee6d9338076a,
+    type: 3}
+  m_PrefabInstance: {fileID: 7296113914045028562}
+  m_PrefabAsset: {fileID: 0}
+--- !u!23 &7296113914045028564 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 4172088689695255555, guid: f4fa90f62483ad646b4fee6d9338076a,
+    type: 3}
+  m_PrefabInstance: {fileID: 7296113914045028562}
+  m_PrefabAsset: {fileID: 0}
+--- !u!23 &7296113914045028565 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 925054521124418462, guid: f4fa90f62483ad646b4fee6d9338076a,
+    type: 3}
+  m_PrefabInstance: {fileID: 7296113914045028562}
+  m_PrefabAsset: {fileID: 0}
+--- !u!23 &7296113914045028566 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 2174309422574436754, guid: f4fa90f62483ad646b4fee6d9338076a,
+    type: 3}
+  m_PrefabInstance: {fileID: 7296113914045028562}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &7297205678355551558
 Transform:
   m_ObjectHideFlags: 0
@@ -99120,7 +99070,7 @@ GameObject:
   - component: {fileID: 7876506638572626132}
   m_Layer: 0
   m_Name: PrimaryWhiteBishop_001
-  m_TagString: ChessPiece
+  m_TagString: Bishop
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -99265,80 +99215,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6100981050315569640}
   m_Mesh: {fileID: 8681847473432046014, guid: 9c49c1350451eab4e8e726d95b67699e, type: 3}
---- !u!1001 &8036866798525735128
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 5107935029331867368, guid: 4204c40a4d8990b4c8536ecaa88a9b42,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 24.744263
-      objectReference: {fileID: 0}
-    - target: {fileID: 5107935029331867368, guid: 4204c40a4d8990b4c8536ecaa88a9b42,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -12.8204
-      objectReference: {fileID: 0}
-    - target: {fileID: 5107935029331867368, guid: 4204c40a4d8990b4c8536ecaa88a9b42,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1.805
-      objectReference: {fileID: 0}
-    - target: {fileID: 5107935029331867368, guid: 4204c40a4d8990b4c8536ecaa88a9b42,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5107935029331867368, guid: 4204c40a4d8990b4c8536ecaa88a9b42,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5107935029331867368, guid: 4204c40a4d8990b4c8536ecaa88a9b42,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5107935029331867368, guid: 4204c40a4d8990b4c8536ecaa88a9b42,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5107935029331867368, guid: 4204c40a4d8990b4c8536ecaa88a9b42,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5107935029331867368, guid: 4204c40a4d8990b4c8536ecaa88a9b42,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5107935029331867368, guid: 4204c40a4d8990b4c8536ecaa88a9b42,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5107935029331867368, guid: 4204c40a4d8990b4c8536ecaa88a9b42,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5107935029331867369, guid: 4204c40a4d8990b4c8536ecaa88a9b42,
-        type: 3}
-      propertyPath: m_Mesh
-      value: 
-      objectReference: {fileID: 550311812}
-    - target: {fileID: 5107935029331867372, guid: 4204c40a4d8990b4c8536ecaa88a9b42,
-        type: 3}
-      propertyPath: m_Name
-      value: PieceLocationIndicator 1
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 4204c40a4d8990b4c8536ecaa88a9b42, type: 3}
 --- !u!33 &8058513374254023399
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -100467,7 +100343,7 @@ GameObject:
   - component: {fileID: 373370852}
   m_Layer: 0
   m_Name: PrimaryWhitePawn_007
-  m_TagString: ChessPiece
+  m_TagString: Pawn
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
